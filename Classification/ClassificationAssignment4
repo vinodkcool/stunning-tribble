@@ -1,0 +1,71 @@
+
+
+
+Assignment - 4
+Due Mar 11 by 2:29pm Points 9 Submitting a file upload Available Mar 3 at 11:30pm - Mar 11 at 2:29pm 8 days
+This assignment was locked Mar 11 at 2:29pm.
+Instruction: Please answer all questions in a single jupyter notebook.
+
+1. Answer each of the following with True or False in the context of SVM giving reasons. [1x3=3 marks]
+
+a) SVM classifier has quick training time with large dataset.
+
+b) SVM classifier does not perform well when number of dimensions are more than number of records.
+
+c) SVM classifier can handle both linearly and non-linearly separable datasets.
+
+2. Do the following on breast cancer dataset. Perform 70:30 train(Tr) and test (Te) split.
+
+Link: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original) (Links to an external site.)
+
+a) Use Tr data for building linear SVM model and evaluate it’s performance (F1 score) using Te data. [2 marks]
+
+b) Use the same Tr data for building polynomial SVM model and evaluate it’s performance (F1 score) using the same Te data. [2 marks]
+
+c) Draw bar chart depicting blue bar for linear SVM and red bar for polynomial SVM, compare their performance based on precision, recall, accuracy and F1-score. [2 marks]
+
+Note: For any queries, email at rishabh.kaushal@wilp.bits-pilani.ac.in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

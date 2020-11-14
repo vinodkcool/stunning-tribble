@@ -1,0 +1,17 @@
+This assignment was locked Feb 19 at 1:29pm.
+Assignment 2
+
+Naïve Bayes and Logistic Regression
+
+Q1. Using the Iris dataset in Jupyter Notebook,
+
+Extract X as all columns except the last column and Y as last column. (1 mark)
+Create a Naïve Bayes Classification model to predict the species of flowers with explanation of parameters. (2 marks)
+Compute the accuracy and confusion matrix. (1 marks)
+Q2. The following dataset is used to classify the car acceptability into classes: unacceptable, acceptable, good and very good.
+
+Import the car.data dataset from https://archive.ics.uci.edu/ml/machine-learning-databases/car/ (Links to an external site.)
+Extract X as all columns except the last column and Y as last column. (1 mark)
+Split the data into training set and testing set. Perform 10-fold cross validation. (1 marks).
+Train a Logistic regression model for the dataset and explain the parameters of model. (2 marks)
+Compute the accuracy and confusion matrix. (1 marks)

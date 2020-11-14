@@ -1,0 +1,32 @@
+Assignment 1
+Due Jan 29 by 1:29pm Points 9 Submitting a file upload Available Jan 21 at 1:30pm - Jan 29 at 1:29pm 8 days
+This assignment was locked Jan 29 at 1:29pm.
+Classification Module -Assignment 1
+
+Which of the following statements about k-Nearest Neighbour (k-NN) are true in a classification setting, and for all k? Select all that apply and give explanation for each one of them (Why correct and incorrect)
+The training error of a 1-NN will always be better than that of 5-NN.
+The test error of a 1-NN will always be better than that of a 5-NN.
+The decision boundary of the k-NN classifier is linear.
+The time needed to classify a test example with the k-NN classifier grows with the size of the training set. [3 Marks – 0.75 marks for each option]
+ 
+
+Attached is a dataset which shows the flower classification ML problem. The task is to predict the class of the plant based on certain features given in the excel file. The xlsx has 2 components one showing the variables data and another file showing the explanation of what each of these variables mean. The task is to fit a kNN classifier and to find accuracy score of this classifier.
+Also, another objective of this problem is to plot the graph (elbow curve) for finding the right k. [6 marks – 4+2]
+
+ 
+
+For this problem, ignore the problem metrics. Ignore the units of tree length like mm or cm. For e.g. do not think that the tree length is in mm or cm. All the measures are metric-less (unit less) and for this problem treat each column in that capacity.
+
+Please note that the above data is curated and you won’t be able to find it on internet. This is not taken from IRIS dataset so please do not refer to that dataset.
+
+ 
+
+Dataset Link: Plant_Tree_data.xlsxPreview the document
+
+If you have any queries please reach out to me on kedar.kanhere@wilp.bits-pilani.ac.in
+
+ 
+
+Answer key for assignment: Classification Module Assignment 1 Solution.docxPreview the document
+
+Solution code for assignment: Classification_Assignment_1_Solution.ipynb

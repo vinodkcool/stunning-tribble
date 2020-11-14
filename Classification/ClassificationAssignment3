@@ -1,0 +1,8 @@
+This assignment was locked Feb 27 at 1:29pm.
+Q-1: What is Pruning in Decision Trees? Why is it important? (2+1)M.
+
+ 
+
+Q-2: The given dataset of size n = 400 shows Social Media Advertisement classification
+ML Problem. The task is to predict if the product was purchased or not based on
+certain features given in the dataset. The task is to fit a Decision Tree Classifier and find the evaluation metrics of this classifier. (4+2)M.
